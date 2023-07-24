@@ -12,7 +12,7 @@ namespace Trial_1
     {
         static void Main(string[] args)
         {
-            //Variables that we are using in the code.
+            //Variables that we are using in the code
             int menu, difficult = 1;
             int s1, stop_counter;
             int move_counter = 0;
